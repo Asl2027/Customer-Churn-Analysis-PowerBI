@@ -1,2 +1,2 @@
 # Customer-Churn-Analysis-PowerBI
-customer-churn-analysis-powerbi
+Business analytics project identifying churn drivers and revenue loss across subscription plans using Power BI and DAX.
