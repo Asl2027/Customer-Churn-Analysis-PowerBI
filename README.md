@@ -7,7 +7,7 @@ This project analyzes customer churn patterns and their financial impact across 
 The analysis was performed using SQL for data structuring and Power BI for KPI modeling and dashboard development.
 
 ## Dashboard Preview
-![Customer Churn Dashboard](dashboard preview.png)
+![Customer Churn Dashboard](dashboard_preview.png)
 
 ## Business Objectives
 
